@@ -504,3 +504,4 @@
 [2024-05-13 12:48:08] [class-ss-archive-creation-job.php:166] This task is done and there are no more tasks, time to complete the job
 [2024-05-13 12:48:08] [class-ss-archive-creation-job.php:193] Completing the job
 [2024-05-13 12:48:08] [class-ss-archive-creation-job.php:320] Status message: [done] Done! Finished in 00:00:19
+[2024-05-13 15:46:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/web
